@@ -1,0 +1,11 @@
+{
+  "name": "task01",
+  "version": "1.0.0",
+  "description": "task01 - import and parse json file and show it's content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohsenelsayed",
+  "license": "ISC"
+}
